@@ -4,6 +4,16 @@ from bubble_sort import bubble_sort
 from insertion_sort import insertion_sort
 from selection_sort import selection_sort
 #This is the code for the beginning of the project.
+
+# EVALUATION
+# 1: MENU CHOICES 4/5
+# 2: INPUT VALIDATION 3/5
+# 3: GENERATE VALUES 5/5
+# 4: BUBBLE SORT 5/5
+# 5: INSERTION SORT 5/5
+# 6: SELECTION SORT 4/5
+# 7: PERFORMANCE METRICS 4/5
+# COMMENTS MISSING: -5
 def main():
     while True:
         while True:
